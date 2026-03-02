@@ -42,3 +42,6 @@ The project follows a standard Flutter directory structure:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Navaneeth223/chat02.git](https://github.com/Navaneeth223/chat02.git)
+   ```
+
+It's running
